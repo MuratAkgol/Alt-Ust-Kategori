@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Iakademi42ModelStoreContainer" CdmEntityContainer="Iakademi42Entities">
+    <EntitySetMapping Name="Araba">
+      <EntityTypeMapping TypeName="Iakademi42Model.Araba">
+        <MappingFragment StoreEntitySet="Araba">
+          <ScalarProperty Name="categoryID" ColumnName="categoryID" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="UstMenuID" ColumnName="UstMenuID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

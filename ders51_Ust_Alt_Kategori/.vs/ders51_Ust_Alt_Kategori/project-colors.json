@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30cf5990-9c65-4a7d-af97-ff2a48f583ff": {
+      "ProjectGuid": "30cf5990-9c65-4a7d-af97-ff2a48f583ff",
+      "DisplayName": "ders51_Ust_Alt_Kategori",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

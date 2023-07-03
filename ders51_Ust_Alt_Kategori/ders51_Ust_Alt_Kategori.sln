@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders51_Ust_Alt_Kategori", "ders51_Ust_Alt_Kategori\ders51_Ust_Alt_Kategori.csproj", "{30CF5990-9C65-4A7D-AF97-FF2A48F583FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30CF5990-9C65-4A7D-AF97-FF2A48F583FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CF5990-9C65-4A7D-AF97-FF2A48F583FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CF5990-9C65-4A7D-AF97-FF2A48F583FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CF5990-9C65-4A7D-AF97-FF2A48F583FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D50BE80-5D54-4F12-96A7-04822992E776}
+	EndGlobalSection
+EndGlobal
